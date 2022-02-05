@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Monument';
+  src: url('./assets/fonts/MonumentExtended-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Canopee';
+  src: url('./assets/fonts/Canopee.woff') format('woff');
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
